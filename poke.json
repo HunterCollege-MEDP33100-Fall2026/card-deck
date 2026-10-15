@@ -1,0 +1,40 @@
+{
+    "pokemon": [
+        {
+            "name": "Todadile",
+            "type": "Water",
+            "hp": 60,
+            "bestMove": "Aqua Tail (30)",
+            "image": "cards/card1toda.png"
+    
+        },
+        {
+            "name": "Serperior",
+            "type": "Grass",
+            "hp": 160,
+            "bestMove": "Solar Coiling (100)",
+             "image": "cards/card2serperior.png"
+        },
+        {
+            "name": "Oshawott",
+            "type": "Water",
+            "hp": 60,
+            "bestMove": "Water Pulse (20)",
+             "image": "cards/card3osh.png"
+        },
+        {
+            "name": "Luxray",
+            "type": "Electric",
+            "hp": 120,
+            "bestMove": "Thunder (120)",
+             "image": "cards/card4luxray.png"
+        },
+        {
+            "name": "Arcanine",
+            "type": "Fire",
+            "hp": 70,
+             "bestMove": "Flames of Rage (40)",
+              "image": "cards/card5arcanine.png"
+        }
+    ]
+}
