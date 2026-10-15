@@ -1,0 +1,32 @@
+body {
+   font-family: "Short Stack", cursive;
+}
+
+h1 {
+   text-align: center;
+   padding: 1%;
+}
+#card-container {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+   gap: 24px;
+   padding: 24px;
+   max-width: 1200px;
+   margin: 0 auto;
+}
+
+.card {
+   border-radius: 25px;
+   padding: 10px;
+}
+
+.card img {
+   width: 100%;
+}
+
+.card p {
+   margin: 0;
+   padding: 0 16px;
+   text-align: center;
+   background-color: transparent;
+}

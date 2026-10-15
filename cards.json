@@ -1,0 +1,76 @@
+{
+   "cards": [
+      {
+         "name": "Twilight Sparkle",
+         "id": 0,
+         "img": "./images/twilight.webp",
+         "rarity": "Shining Ruby Rare (SRR)"
+      },
+      {
+         "name": "Fluttershy",
+         "id": 1,
+         "img": "./images/fluttershy.webp",
+         "rarity": "Colorful Rare (CR)"
+      },
+      {
+         "name": "Pinkie Pie",
+         "id": 2,
+         "img": "./images/pinkiepie.webp",
+         "rarity": "Ruby Rare (RR)"
+      },
+      {
+         "name": "Rainbow Dash",
+         "id": 3,
+         "img": "./images/rainbowdash.webp",
+         "rarity": "Colorful Rare (CR)"
+      },
+      {
+         "name": "Rarity",
+         "id": 4,
+         "img": "./images/rarity.webp",
+         "rarity": "Shining Colorful Rare (CR)"
+      },
+      {
+         "name": "Applejack",
+         "id": 5,
+         "img": "./images/applejack.webp",
+         "rarity": "Shining Ruby Rare (RR)"
+      },
+      {
+         "name": "Twilight Sparkle",
+         "id": 6,
+         "img": "./images/twilight02.webp",
+         "rarity": "Promo (PR)"
+      },
+      {
+         "name": "Fluttershy",
+         "id": 7,
+         "img": "./images/fluttershy02.webp",
+         "rarity": "Colorful Rare (CR)"
+      },
+      {
+         "name": "Pinkie Pie",
+         "id": 8,
+         "img": "./images/pinkiepie02.webp",
+         "rarity": "Colorful Rare (CR)"
+      },
+      {
+         "name": "Rainbow Dash",
+         "id": 9,
+         "img": "./images/rainbowdash02.webp",
+         "rarity": "Gold Rare (GR)"
+      },
+      {
+         "name": "Rarity",
+         "id": 10,
+         "img": "./images/rarity02.webp",
+         "rarity": "Colorful Rare (CR)"
+      },
+      {
+         "name": "Applejack",
+         "id": 11,
+         "img": "./images/applejack02.webp",
+         "rarity": "Ruby Rare (RR)"
+      }
+   ]
+}
